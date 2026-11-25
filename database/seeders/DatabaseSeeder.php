@@ -18,14 +18,14 @@ class DatabaseSeeder extends Seeder
             'nama' => 'Ahlul N.R.P',
             'nim' => '24010110182',
             'deskripsi' => '24010110182 merupakan master dari uts ini dengan tugas membuat front-end dan mengirimkannya ke grup',
-            'foto' => 'images/rizki.jpg',
+            'foto' => 'images/ahlul.jpg',
         ]);
 
         Biodata::create([
             'nama' => 'khaisan amru r',
             'nim' => '2010110171',
             'deskripsi' => 'dengan NIM 2010110171 merupakan pegawai dan mempunyai tugas mengerjakan back-end pada UTS ini',
-            'foto' => 'images/andi.jpg',
+            'foto' => 'images/khaisan.jpg',
         ]);
     }
 }
